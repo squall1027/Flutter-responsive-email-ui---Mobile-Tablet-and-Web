@@ -14,6 +14,4 @@ We redesign the outlook app also make it responsive so that you can run it every
 
 ### Outlook Email App Redesign Responsive Final UI
 
-![Preview](/gif.gif)
-
 ![App UI](/ui.png)
